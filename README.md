@@ -1,17 +1,23 @@
-# React Reducer Cart
+# Getting Started
 
-## Functionality
+To get started, you will need to have Node.js and npm (Node Package Manager) installed on your machine.
 
-Add Cart, remove cart
+- Clone the repository: git clone `https://github.com/nannu-coder/react-reducer-cart`
+- Navigate to the project directory: `cd my-react-app`
+- Install the dependencies: `npm install`
+- Start the development server: `npm start`
 
-## Hooks
+The application should now be running on [http://localhost:3000](http://localhost:3000) in your browser
 
-- useState
-- useEffect
-- context
-- useReducer
+## Built With
 
-### To use This Repository
+- [React](https://reactjs.org/)
+- [create-react-app](https://create-react-app.dev/)
 
-- command `yarn install`
-- command `yarn start`
+## Author
+
+Nannu - [GitHub Profile](https://github.com/nannu-coder)
+
+## Project Preview
+
+![useReducer Cart](https://i.postimg.cc/DyYpX6St/react-reducer-cart.png)
